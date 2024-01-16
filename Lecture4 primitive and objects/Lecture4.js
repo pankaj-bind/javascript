@@ -19,3 +19,10 @@ console.log(a,b,c,d,e,f,g)
 
 // knnow the data type
 console.log(typeof a, typeof b, typeof c, typeof d, typeof e, typeof f, typeof g)
+
+// objects
+const pankaj={
+    "fullname":"pankaj kumar bind",
+    "age":21
+}
+console.log(pankaj["fullname"])
