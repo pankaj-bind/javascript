@@ -1,0 +1,1 @@
+console.log("Written in external script");
