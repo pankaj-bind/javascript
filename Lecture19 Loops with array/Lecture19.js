@@ -11,6 +11,17 @@ arr.forEach((element)=>{
 }
 )
 
+arr.forEach((element, index)=>{
+    console.log(element, index)
+}
+)
+
+arr.forEach((element, index, array)=>{
+    console.log(element, index, array)
+}
+)
+
+
 // for in
 for(let i in arr){
     console.log(arr[i])
