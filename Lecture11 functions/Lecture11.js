@@ -20,6 +20,6 @@ function sum(a,b){
 // constant function
 
 const add=(p,q,r)=>{
-    return p+q+q;
+    return p+q+r;
 }
 console.log(add(3,5,5));
